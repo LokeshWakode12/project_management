@@ -54,4 +54,6 @@ POST /api/token/refresh/
   "refresh": "<your_refresh_token>"
 }
 
+## ** Important Notes **
 ## Accept register and token API each api is binded with auth token
+## Postman collection is in "postman_collection.json" file
